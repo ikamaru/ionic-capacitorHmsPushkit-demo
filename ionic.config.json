@@ -1,0 +1,7 @@
+{
+  "name": "ionic-capacitorHmsPushkit-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
