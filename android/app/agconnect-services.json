@@ -17,13 +17,13 @@
 	},
 	"client":{
 		"cp_id":"890212000000000286",
-		"product_id":"736430079244709596",
-		"client_id":"499960397613248896",
-		"client_secret":"0E6F1AEA6F341E20308C8CCA78C3275D5317A8253CB53BAC7375E3AE2DD7A57D",
-		"project_id":"736430079244709596",
-		"app_id":"103318003",
-		"api_key":"CgB6e3x9b1L3tQyANiQaW8WBwYW892aqPV2xW5D9wfdSYcDZzwKgAJdSFLs/Xgg036wc0tr1+XeA/purwVg10Gp7",
-		"package_name":"com.ikamaru.dtse.hms.test"
+		"product_id":"736430079244589711",
+		"client_id":"421629609088386112",
+		"client_secret":"05D97C1CBDB77E57C7C8C8B7E3F178B247954A94DFDB25847346E39F0FB298A3",
+		"project_id":"736430079244589711",
+		"app_id":"102677549",
+		"api_key":"CgB6e3x9ao6U5Mesp8s3EVIkVbh3Eikddo6K9V10ZlMLSPGjHyTUGYwA+WlsqOe9/pI83xKxWgwLKNrdGHKplDuu",
+		"package_name":"com.huawei.dtse.hmskits.test"
 	},
 	"service":{
 		"analytics":{
@@ -45,8 +45,8 @@
 	"configuration_version":"2.0",
 	"appInfos":[
 		{
-			"package_name":"com.ikamaru.dtse.hms.test",
-			"app_id":"103318003"
+			"package_name":"com.huawei.dtse.hmskits.test",
+			"app_id":"102677549"
 		}
 	]
 }
